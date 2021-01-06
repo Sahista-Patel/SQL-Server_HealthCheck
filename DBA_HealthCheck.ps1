@@ -31,7 +31,7 @@
     SqlServer Module need to be installed if not than type below command in powershell prompt.
     Install-Module -Name SqlServer
 
-.AUTHOR & OWNER
+.AUTHOR
     Harsh Parecha
     Sahista Patel
 #>
