@@ -36,6 +36,9 @@ Please set varibles like server list path, output file path, E-Mail id and passw
 
 ## Example O/P
 
+As per [Report.html] file.
+Few Screenshots provided below.<br>
+
 ![alt text](https://github.com/Sahista-Patel/SQL-Server_HealthCheck/blob/Powershell/healthcheck_1.PNG)<br>
 
 ![alt text](https://github.com/Sahista-Patel/SQL-Server_HealthCheck/blob/Powershell/healthcheck_2.PNG)<br>
